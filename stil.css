@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+p { 
+	color: darkslateblue; 
+	font-family: Constantia, "Lucida Bright", "Dejavu Serif", Georgia, "Serif"; 
+	font-size: 16px;
+	line-height: 18px;
+	width: 800px;
+	padding: 20px;
+} 
+h1 , h2 { 
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color: palevioletred;
+}
+body  { 
+	background-image: url("../slika9.jpg");
+}
+a:link {
+	color: darkcyan;
+	background-color: lavenderblush;
+	padding: 5px;
+	line-height: 40px;
+}
+a:hover {
+	background-color: darkcyan;
+}
+img {
+	height: 200px;
+	width: 150px;
+	
+	
